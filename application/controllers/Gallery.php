@@ -20,6 +20,8 @@ class Gallery extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('gallery');
+		$this->data['pagebody'] = 'gallery';
+		$this->render();
+		//$this->load->view('gallery');
 	}
 }
