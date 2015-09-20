@@ -1,2 +1,4 @@
 # winter2015-lab02
-Starter project for Tutorial 2C
+COMP4711 Lab 2
+
+Repo link: https://github.com/WIlsonCarpenter/starter-lab02/blob/master/composer.json
