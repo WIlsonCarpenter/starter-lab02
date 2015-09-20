@@ -14,7 +14,7 @@ class Gallery extends Application {
 		foreach ($pix as $picture) {
 			$cells[] = $this->parser->parse("_cell", (array)$picture, true);
 		}
-
+		//test comment
 		//prime the table class
 		$this->load->library("table");
 		$parms = array (
