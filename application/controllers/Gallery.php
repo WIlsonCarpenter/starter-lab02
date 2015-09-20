@@ -1,6 +1,5 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-//test comment
 
 class Gallery extends Application {
 	/**
